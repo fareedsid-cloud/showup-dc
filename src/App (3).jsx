@@ -16,7 +16,7 @@ import { useState, useEffect, useRef, useMemo, useCallback } from "react";
 //
 // 4. Copy the URL and paste it below, replacing the placeholder:
 
-const GOOGLE_SHEET_CSV_URL = "YOUR_GOOGLE_SHEET_CSV_URL_HERE";
+const GOOGLE_SHEET_CSV_URL = https://docs.google.com/spreadsheets/d/e/2PACX-1vRW3SlpHSrZz6UB7hxC1wZkNhQ1rJtDLqDpY7lUNvNJ17jwrohE28I1KySAU1cpYcuW1J1tX-yFr4fX/pub?output=csv;
 
 // ── CSV PARSER ───────────────────────────────────────────────
 function parseCSV(text) {
